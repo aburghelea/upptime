@@ -10,8 +10,6 @@ This repository contains the open-source uptime monitor and status page for [Ale
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/aburghelea/upptime/issues) as incident reports, [Actions](https://github.com/aburghelea/upptime/actions) as uptime monitors, and [Pages](https://aburghelea.github.io/upptime) for the status page.
 
-
-
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
