@@ -1,20 +1,20 @@
 [
   {
-    "name": "Status Aburghelea",
+    "name": "Uptime-Kuma",
     "url": "status.alexburghelea.ro",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "status-aburghelea",
+    "slug": "uptime-kuma",
     "status": "down",
-    "uptime": "27.22%",
-    "uptimeDay": "27.22%",
-    "uptimeWeek": "27.22%",
-    "uptimeMonth": "27.22%",
-    "uptimeYear": "27.22%",
-    "time": 1785,
-    "timeDay": 1785,
-    "timeWeek": 1785,
-    "timeMonth": 1785,
-    "timeYear": 1785,
+    "uptime": "39.69%",
+    "uptimeDay": "39.69%",
+    "uptimeWeek": "39.69%",
+    "uptimeMonth": "39.69%",
+    "uptimeYear": "39.69%",
+    "time": 2080,
+    "timeDay": 2080,
+    "timeWeek": 2080,
+    "timeMonth": 2080,
+    "timeYear": 2080,
     "dailyMinutesDown": {
       "2023-03-26": 0
     }
