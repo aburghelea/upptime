@@ -7,7 +7,7 @@ skipTopicsUpdate: true
 skipHomepageUpdate: true
 
 sites:
-  - name: Status Aburghelea
+  - name: Uptime-Kuma
     url: status.alexburghelea.ro
 
 # Upptime also supports notifications, assigning issues, and more
