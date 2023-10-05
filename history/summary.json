@@ -4,7 +4,7 @@
     "url": "status.alexburghelea.ro",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "uptime-kuma",
-    "status": "up",
+    "status": "down",
     "uptime": "95.26%",
     "uptimeDay": "92.13%",
     "uptimeWeek": "89.09%",
@@ -16,6 +16,7 @@
     "timeMonth": 1631,
     "timeYear": 1812,
     "dailyMinutesDown": {
+      "2023-10-05": 0,
       "2023-10-04": 114,
       "2023-10-03": 434,
       "2023-10-02": 262,
