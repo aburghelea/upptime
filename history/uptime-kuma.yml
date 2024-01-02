@@ -1,7 +1,7 @@
 url: status.alexburghelea.ro
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-02T16:11:05.938Z
+status: up
+code: 200
+responseTime: 1659
+lastUpdated: 2024-01-02T17:08:37.838Z
 startTime: 2023-03-26T06:47:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
