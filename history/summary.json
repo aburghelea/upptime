@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "uptime-kuma",
     "status": "up",
-    "uptime": "95.63%",
+    "uptime": "95.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.28%",
-    "time": 3197,
-    "timeDay": 4305,
-    "timeWeek": 3981,
-    "timeMonth": 3860,
-    "timeYear": 3505,
+    "uptimeYear": "95.55%",
+    "time": 3204,
+    "timeDay": 4333,
+    "timeWeek": 4078,
+    "timeMonth": 3872,
+    "timeYear": 3507,
     "dailyMinutesDown": {
       "2025-03-14": 57,
       "2024-12-24": 61,
@@ -44,8 +44,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
-      "2024-08-12": 1440,
-      "2024-08-11": 1440
+      "2024-08-12": 1440
     }
   }
 ]
