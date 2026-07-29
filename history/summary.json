@@ -4,17 +4,17 @@
     "url": "status.alexburghelea.ro",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "uptime-kuma",
-    "status": "down",
+    "status": "up",
     "uptime": "96.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.38%",
-    "time": 3556,
-    "timeDay": 5009,
-    "timeWeek": 3127,
-    "timeMonth": 3626,
-    "timeYear": 3551,
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.37%",
+    "time": 3554,
+    "timeDay": 4229,
+    "timeWeek": 3265,
+    "timeMonth": 3645,
+    "timeYear": 3554,
     "dailyMinutesDown": {
       "2025-09-07": 175,
       "2025-09-14": 120,
@@ -29,7 +29,8 @@
       "2026-04-17": 54,
       "2026-04-18": 106,
       "2026-04-20": 61,
-      "2026-07-03": 127
+      "2026-07-03": 127,
+      "2026-07-29": 55
     }
   }
 ]
